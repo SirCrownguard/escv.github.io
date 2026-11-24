@@ -135,7 +135,7 @@ body>md-expressive-theme{display:block}.shell{padding-bottom:0}
 
 
 
-.proton-experience.proton-v5{--proton-art-size:max(104cqw,411.84cqh) auto;--proton-art-position:left center}
+.proton-experience.proton-v5{--proton-art-size:max(104cqw,411.84cqh) auto;--proton-art-position:-12px center}
 .proton-background-frame,.proton-mask-frame{position:absolute;inset:0;container-type:size;pointer-events:none}
 .proton-background-frame{z-index:0}.proton-mask-frame{z-index:2}
 .proton-backdrop{background-image:url("../media/28eb621bd833a614.svg")}
